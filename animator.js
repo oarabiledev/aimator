@@ -5,7 +5,7 @@
  * Unlicense license
  *
  * @author
- * Oaranile Koore
+ * Oarabile Koore
  *
  * @version 1.0
  */
